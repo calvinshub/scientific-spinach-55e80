@@ -41,7 +41,7 @@ const PostListItem = ({
       <Tags tags={tags} />
 
       <PostListTitle>
-        <Link to={slug}>https://google.com</Link>
+        <Link to={slug}>{title}</Link>
       </PostListTitle>
       <PostListExcerpt
         dangerouslySetInnerHTML={{
