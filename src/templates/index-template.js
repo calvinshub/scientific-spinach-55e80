@@ -18,8 +18,8 @@ const HomePage = ({ data }) => {
         }}
       />
 
-      <PostList posts={posts} />
-     {/*} <StyledLink
+     {/* <PostList posts={posts} />
+     } <StyledLink
         css={`
           display: block;
           margin-top: var(--size-800);
