@@ -31,7 +31,7 @@ const HomePage = ({ data }) => {
         to="/blog"
       >
         View All posts
-      </StyledLink> 
+      </StyledLink> */}
     </Layout>
   );
 };
