@@ -32,6 +32,15 @@ const Tag = styled.span`
   text-transform: uppercase;
   font-size: var(--size-300);
 
+    position: relative;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.03);
+    text-decoration: none;
+    color: inherit;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+
   & a {
     position: relative;
     z-index: 2;
