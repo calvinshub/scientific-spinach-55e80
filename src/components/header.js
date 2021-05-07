@@ -21,7 +21,7 @@ const Header = () => {
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="/">Home</Link>
+          <Link to="/"></Link>
         </HeaderTitle>
 
         <HeaderNavList>
