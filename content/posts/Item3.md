@@ -1,7 +1,7 @@
 ---
 title: SD Elements for Software Admins
 date: '2021-07-01'
-duration: 30 Minutes
+duration: 45 Minutes
 tags:
   - advanced
 ---
