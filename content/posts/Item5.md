@@ -4,6 +4,7 @@ date: '2021-05-04'
 duration: 60 Minutes
 tags:
   - tv series
+  - lorem-ipsum
 ---
 
 You act like you’re all alone out there in the world, but you’re not. You’re not alone. You are such a nerd. No wonder you only hang out with boys. It’s about the shadow monster, isn’t it? If anyone asks where I am, I've left the country.Yeah, I want a date with Bo Derek. We all want things. Nancy, seriously, you're gonna be so cool now, it's ridiculous. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why are you keeping this curiosity door lock? Friends don't lie.Why’s he gotta kick the door? Mornings are for coffee and contemplation. Bitchin' Yeah, I want a date with Bo Derek. We all want things.
