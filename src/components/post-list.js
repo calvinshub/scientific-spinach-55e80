@@ -14,7 +14,6 @@ const PostList = ({ posts }) => {
         tags={tags}
         title={title}
         duration={duration}
-        slug={slug}
         url={url}
         timeToRead={timeToRead}
         description={description}
