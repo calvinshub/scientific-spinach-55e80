@@ -16,7 +16,7 @@ const Tags = ({ tags }) => {
         tags.map((tag) => {
           return (
             <Tag key={tag}>
-            <Link to={`/tags/${toKebabCase(tag)}`}>{tag}</Link>
+            {/* <Link to={`/tags/${toKebabCase(tag)}`}>{tag}</Link> */}
             </Tag>
           );
         })}
