@@ -105,7 +105,7 @@ body {
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   color: #37292C;
   background-attachment: fixed;
-  background-color: #12294D;
+  background-color: #eaeef4;
   background-image: linear-gradient(225deg, #c5cce3 0%, #FFFFFF 74%);
 
 }
