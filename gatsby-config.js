@@ -109,6 +109,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map((node) => {
                 return Object.assign({}, node.frontmatter, {
+                    
                   description: node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
