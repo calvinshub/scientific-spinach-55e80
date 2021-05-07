@@ -107,7 +107,7 @@ body {
   background-attachment: fixed;
   background-color: #eaeef4;
   {/* background-image: linear-gradient(225deg, #eaeef4 0%, #FFFFFF 74%); */}
-  background: url("/media/how-it-works-hero") no-repeat;
+  background: url("/media/how-it-works-hero.svg") no-repeat;
 }
 
 h1,
