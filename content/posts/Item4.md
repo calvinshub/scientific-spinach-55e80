@@ -7,4 +7,5 @@ tags:
 social_image: /media/rocket.jpg
 url: 'https://www.securitycompass.com/courseware/sdelements/integration/'
 ---
-This course is designed for Integration Administrators and will show how integration works in SD Elements and the different tools it supports.
+This course is will show how integration works in SD Elements and the different tools it supports. We will be focusing on the three main integrations that are commonly implemented by customers: Issue Trackers, Verification Tools, and Build Pipelines.
+
