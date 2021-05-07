@@ -58,7 +58,7 @@ const PostListItem = ({
   );
 };
 
-const Tag = styled.span`
+const Button = styled.span`
   margin-right: 0.6rem;
   margin-bottom: 0.6rem;
   text-transform: uppercase;
