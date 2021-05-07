@@ -1,6 +1,7 @@
 ---
 title: SD Elements for Software Admins
 date: '2021-07-01'
+duration: 60 Minutes
 tags:
   - tv series
   - stranger things
