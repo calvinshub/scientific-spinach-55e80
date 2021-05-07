@@ -7,4 +7,4 @@ tags:
 social_image: /media/rocket.jpg
 url: 'https://www.securitycompass.com/courseware/sdelements/integration/'
 ---
-This course will teach you how to scale threat modeling to save time without sacrificing product security. You will also learn how SD Elements can perform a faster way of threat modeling, or use it to supplement your existing threat modeling process.
+This course is designed for Integration Administrators and will show how integration works in SD Elements and the different tools it supports.
