@@ -4,7 +4,6 @@ date: '2021-03-12'
 duration: 60 Minutes
 tags:
   - tv series
-  - rick and morty
 ---
 
 I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Wow, I really Cronenberged up the whole place, huh Morty? Just a bunch a Cronenbergs walkin' around. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. If it was, you could call me Ernest Hemingway. You're missing the point Morty. Why would he drive a smaller toaster with wheels? I mean, does your car look like a smaller version of your house? No.
