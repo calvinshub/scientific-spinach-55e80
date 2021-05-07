@@ -5,7 +5,7 @@ import Tags from './tags';
 
 const PostList = ({ posts }) => {
   const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
-    const { title, tags, duration, description } = frontmatter;
+    const { title, tags, duration, description, url } = frontmatter;
     const { slug } = fields;
 
     return (
