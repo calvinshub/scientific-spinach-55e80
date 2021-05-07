@@ -1,6 +1,7 @@
 ---
 title: SD Elements Advanced
 date: '2021-08-09'
+timeToRead: 
 tags:
   - rick and morty
   - tv series
