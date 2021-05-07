@@ -1,6 +1,7 @@
 ---
 title: SD Elements for Integration Admins
 date: '2021-06-12'
+duration: 60 Minutes
 tags:
   - stranger things
   - tv series
