@@ -6,8 +6,9 @@ tags:
   - Advanced
 social_image: /media/rocket.jpg
 description: >-
-  This is a custom description for SEO and Open Graph purposes. If it's not
-  provided, it defaults to auto-generated excerpts of the page content.
+  While SD Elements is a powerful tool on its own to help teams mitigate
+  software security risk, its real value comes from being able to integrate with
+  a variety of security tools teams are already using.
 ---
 
 She shut one door! With her mind! You’re pretty cute, you know that? You are such a nerd. No wonder you only hang out with boys. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?It’s about the shadow monster, isn’t it? Friends don't lie. Hey kiddo, would you like a balloon? No... no El, you're not the monster. You saved me. Do you understand? You saved me. I need my paddles! This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone.Yeah, I want a date with Bo Derek. We all want things. Nancy, seriously, you're gonna be so cool now, it's ridiculous. Friends don't lie. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?
