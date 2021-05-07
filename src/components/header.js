@@ -26,7 +26,7 @@ const Header = () => {
 
         <HeaderNavList>
           <HeaderNavListItem>
-            <Link to="/blog"></Link>
+            <Link to="/blog">User Guide</Link>
           </HeaderNavListItem>
 
           <HeaderNavListItem>
