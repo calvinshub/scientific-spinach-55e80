@@ -132,7 +132,7 @@ const PostListMeta = styled.div`
   justify-content: space-between;
 `;
 
-const Tag = styled.span`
+const Button = styled.span`
   margin-right: 0.6rem;
   margin-bottom: 0.6rem;
   text-transform: uppercase;
