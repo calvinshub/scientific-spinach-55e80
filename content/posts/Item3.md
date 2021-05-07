@@ -4,6 +4,7 @@ date: '2021-07-01'
 duration: 60 Minutes
 tags:
   - tv series
+  - lorem-ipsum
 ---
 
 You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. It's just, sometimes... people don't really say what they're really thinking. But when you capture the right moment, it says more.Let’s burn that lab to the ground. Oh... candy, leftovers, Eggo's... she really likes Eggo's. Bitchin' So, Jonathan, how was the pull-out? You are such a nerd. No wonder you only hang out with boys. Mornings are for coffee and contemplation. Hey kiddo, would you like a balloon?It’s finger-lickin’ good. You’re pretty cute, you know that? He’s a sensitive kid. Lonnie used to say he was queer.
