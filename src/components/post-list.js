@@ -42,7 +42,7 @@ const PostListItem = ({
       <Tags tags={tags} />
 
       <PostListTitle>
-        <Link to={slug}>{title}</Link>
+        <Link to={url}>{title}</Link>
       </PostListTitle>
       <PostListExcerpt
         dangerouslySetInnerHTML={{
