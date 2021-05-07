@@ -52,7 +52,7 @@ const PostListItem = ({
       <PostListMeta>
         <span>Duration: {duration}</span>
 
-        <span>{timeToRead} mins</span>
+        <span><Button>{timeToRead} mins</Button></span>
       </PostListMeta>
     </StyledPostListItem>
   );
