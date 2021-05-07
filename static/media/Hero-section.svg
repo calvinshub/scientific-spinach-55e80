@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="657px" viewBox="0 0 1920 657" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hero section</title>
+    <defs>
+        <linearGradient x1="50%" y1="97.9990448%" x2="50%" y2="21.7914969%" id="linearGradient-1">
+            <stop stop-color="#ECEFF5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-1.36424205e-11,0 L1109.04632,0 L1650,0 C1610.2323,148.032757 1552.74721,276.700331 1477.54475,386.002721 C1402.34229,495.305111 1298.62029,600.942622 1166.37876,702.915254 L-1.36424205e-11,704 L-1.36424205e-11,0 Z" id="path-2"></path>
+        <polygon id="path-4" points="9.09494702e-13 0 295 0 295 295 9.09494702e-13 295"></polygon>
+        <polygon id="path-6" points="9.09494702e-13 0 295 0 295 295 9.09494702e-13 295"></polygon>
+        <linearGradient x1="19.5281183%" y1="43.4273867%" x2="36.1094271%" y2="18.6879882%" id="linearGradient-8">
+            <stop stop-color="#ECEFF5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-16.5234565%" y1="46.3290816%" x2="49.7178187%" y2="116.389286%" id="linearGradient-9">
+            <stop stop-color="#F3774B" stop-opacity="0.01" offset="0%"></stop>
+            <stop stop-color="#F15F24" offset="18.5878%"></stop>
+            <stop stop-color="#F9C2A5" offset="82.5211%"></stop>
+            <stop stop-color="#F9C0A2" stop-opacity="0.01" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920px---Use-Cases-Overview" transform="translate(0.000000, -168.000000)">
+            <g id="Hero-section" transform="translate(-408.000000, -750.000000)">
+                <g id="left-content">
+                    <g id="BDA-Section-Copy-2" transform="translate(1368.000000, 1223.000000) rotate(-180.000000) translate(-1368.000000, -1223.000000) translate(408.000000, 871.000000)">
+                        <g id="bg" transform="translate(-0.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="-1.36424205e-11" y="0" width="1920" height="704"></rect>
+                            <g id="Oval" transform="translate(270.000000, 0.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-1)" transform="translate(825.000000, 352.000000) rotate(-180.000000) translate(-825.000000, -352.000000) " xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="bg-copy" transform="translate(1509.000000, 1269.000000)">
+                        <g id="pattern" transform="translate(147.500000, 147.500000) rotate(-90.000000) translate(-147.500000, -147.500000) ">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Duplicate-control"></g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(0.000000, 0.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(0.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(0.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(0.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F15F24" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F38D63" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F38D63" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F38D63" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F15F24">
+                                <g transform="translate(29.000000, 236.000000)" id="Oval-Copy-4">
+                                    <circle cx="6.14285714" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(60.000000, 0.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(60.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(60.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(60.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(60.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F15F24" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F38D63" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F38D63" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F38D63" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4">
+                                <g transform="translate(117.000000, 0.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(117.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(117.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(117.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(117.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4">
+                                <g transform="translate(176.000000, 0.000000)">
+                                    <circle id="Oval" fill-opacity="0.75" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill-opacity="0.75" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill-opacity="0.75" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill-opacity="0.5" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4">
+                                <g transform="translate(176.000000, 59.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill-opacity="0.75" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(176.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(176.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(176.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4" fill-opacity="0.5">
+                                <g transform="translate(236.000000, 28.000000)" id="Oval">
+                                    <circle cx="6.36734694" cy="6.63265306" r="6.36734694"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4">
+                                <g transform="translate(236.000000, 59.000000)">
+                                    <circle id="Oval" fill-opacity="0.75" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill-opacity="0.75" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill-opacity="0.75" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill-opacity="0.5" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)" fill="#F8EAE4">
+                                <g transform="translate(236.000000, 118.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(236.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-5)">
+                                <g transform="translate(236.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="bg-copy-2" transform="translate(1819.000000, 871.000000)">
+                        <g id="pattern" transform="translate(147.500000, 147.500000) rotate(-90.000000) translate(-147.500000, -147.500000) ">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <g id="Duplicate-control"></g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(0.000000, 0.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(0.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(0.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(0.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F15F24" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F38D63" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F38D63" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F38D63" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F15F24">
+                                <g transform="translate(29.000000, 236.000000)" id="Oval-Copy-4">
+                                    <circle cx="6.14285714" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(60.000000, 0.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(60.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(60.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(60.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(60.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F15F24" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F38D63" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F38D63" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F38D63" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4">
+                                <g transform="translate(117.000000, 0.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(117.000000, 59.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(117.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(117.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(117.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F38D63" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F5AC8E" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F5AC8E" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F5AC8E" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4">
+                                <g transform="translate(176.000000, 0.000000)">
+                                    <circle id="Oval" fill-opacity="0.75" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill-opacity="0.75" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill-opacity="0.75" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill-opacity="0.5" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4">
+                                <g transform="translate(176.000000, 59.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill-opacity="0.75" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(176.000000, 118.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F8EAE4" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F8EAE4" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(176.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F7DACE" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F7DACE" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(176.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F5AC8E" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-3" fill="#F6CBB9" cx="35.1428571" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F6CBB9" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-4" fill="#F6CBB9" cx="35.1428571" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4" fill-opacity="0.5">
+                                <g transform="translate(236.000000, 28.000000)" id="Oval">
+                                    <circle cx="6.36734694" cy="6.63265306" r="6.36734694"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4" fill-opacity="0.75">
+                                <g transform="translate(236.000000, 59.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)" fill="#F8EAE4">
+                                <g transform="translate(236.000000, 118.000000)">
+                                    <circle id="Oval" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(236.000000, 177.000000)">
+                                    <circle id="Oval" fill="#F7DACE" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F8EAE4" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                            <g id="Group-2" mask="url(#mask-7)">
+                                <g transform="translate(236.000000, 236.000000)">
+                                    <circle id="Oval" fill="#F6CBB9" cx="5.85714286" cy="35.1428571" r="5.85714286"></circle>
+                                    <circle id="Oval-Copy-2" fill="#F7DACE" cx="5.85714286" cy="5.85714286" r="5.85714286"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M743.818835,1228.92477 C360.64382,909.270849 100.622257,487.798814 161.715124,291.489324 C222.806968,95.1814281 582.966634,195.18298 966.142365,514.837539 C1349.32658,834.499105 1610.42527,1252.76888 1549.33445,1449.07677 C1488.24158,1645.38626 1127.00305,1548.58729 743.818835,1228.92477 Z" id="Path" fill="url(#linearGradient-8)" opacity="0.5" transform="translate(855.510027, 870.730607) rotate(-73.000000) translate(-855.510027, -870.730607) "></path>
+                </g>
+                <path d="M402.499673,1129 C530.353831,1129 633.9997,1025.35414 633.9997,897.5 C633.9997,769.646093 530.353831,666 402.499673,666 C274.646106,666 171,769.646093 171,897.5 C171,1025.35414 274.646106,1129 402.499673,1129 Z" id="Path-Copy-3" stroke="url(#linearGradient-9)" stroke-width="28" transform="translate(402.499850, 897.500000) rotate(85.000000) translate(-402.499850, -897.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
