@@ -79,6 +79,7 @@ export const pageQuery = graphql`
         }
         excerpt
         timeToRead
+        duration
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           description
