@@ -183,6 +183,7 @@ export const pageQuery = graphql`
         title
         tags
         date(formatString: "MMMM DD, YYYY")
+        duration
         description
         social_image {
           absolutePath
