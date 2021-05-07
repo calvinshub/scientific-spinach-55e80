@@ -78,6 +78,7 @@ const Button = styled.span`
   & a:hover {
     background-color: rgba(255, 255, 255, 0.9);
   }
+;
 
 const StyledPostList = styled.ul`
   padding: 0;
