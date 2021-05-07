@@ -49,7 +49,7 @@ const PostListItem = ({
         }}
       />
       <PostListMeta>
-        <span>Duration X: {duration}</span>
+        <span>Duration: {duration}</span>
 
         <span>{timeToRead} mins</span>
       </PostListMeta>
