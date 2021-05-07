@@ -3,7 +3,7 @@ title: SD Elements for Integration Admins
 date: '2021-06-12'
 duration: 60 Minutes
 tags:
-  - stranger things
+  - Advanced
 social_image: /media/rocket.jpg
 description: >-
   This is a custom description for SEO and Open Graph purposes. If it's not
