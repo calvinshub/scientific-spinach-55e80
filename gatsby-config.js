@@ -130,7 +130,6 @@ module.exports = {
                     }
                     frontmatter {
                       title
-                      duration
                       date
                     }
                   }
