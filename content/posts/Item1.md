@@ -1,7 +1,7 @@
 ---
 title: Introduction to SD Elements
 date: '2021-09-03'
-duration: 
+duration: 60 Minutes
 tags:
   - fundamentals
 ---
