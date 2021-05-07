@@ -10,7 +10,7 @@ const HomePage = ({ data }) => {
   const intro = data.markdownRemark.html;
   const title = data.markdownRemark.frontmatter.title;
 
-  //return (
+  return (
     <Layout title={title}>
       <Intro
         dangerouslySetInnerHTML={{
