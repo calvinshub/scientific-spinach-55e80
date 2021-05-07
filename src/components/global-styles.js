@@ -125,7 +125,8 @@ h3 {
 
 h1 {
   font-size: var(--size-800);
-  letter-spacing: -3px
+  letter-spacing: -3px;
+  color: #F15F24
 }
 
 h2 {
