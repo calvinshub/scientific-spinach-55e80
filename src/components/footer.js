@@ -10,7 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Hand-crafted with love by{' '}
+          Copyright © 2021 Security Compass. All Rights Reserved.{' '}
           <a href="https://twitter.com/yinkakun">Yinka Adedire</a>
         </FooterAttribution>
       </FooterWrapper>
