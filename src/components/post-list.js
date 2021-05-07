@@ -29,7 +29,6 @@ export default PostList;
 
 const PostListItem = ({
   title,
-  date,
   timeToRead,
   tags,
   excerpt,
