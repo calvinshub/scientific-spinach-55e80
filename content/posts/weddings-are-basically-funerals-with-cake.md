@@ -1,6 +1,7 @@
 ---
 title: Introduction to SD Elements
 date: '2021-09-03'
+slug: https://google.com
 tags:
   - fundamentals
 ---
