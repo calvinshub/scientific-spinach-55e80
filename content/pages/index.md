@@ -5,4 +5,4 @@ title: 'Gatsby Starter Glass'
 
 SD Elements Training Courses
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Take our free, mobile-friendly training courses to maximize your use of SD Elements.
