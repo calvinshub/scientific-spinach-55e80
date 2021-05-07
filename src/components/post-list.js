@@ -35,7 +35,6 @@ const PostListItem = ({
   description,
   slug,
   duration,
-  timeToRead,
   url
 }) => {
   return (
