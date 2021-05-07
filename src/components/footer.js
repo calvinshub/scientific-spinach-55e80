@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <FooterWrapper>
-        <SocialLinks />
+        {/* <SocialLinks /> */}
 
         <FooterAttribution>
           Copyright © 2021 Security Compass. All Rights Reserved.
