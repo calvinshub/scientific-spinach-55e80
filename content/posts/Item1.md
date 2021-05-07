@@ -2,7 +2,7 @@
 title: Introduction to SD Elements
 date: '2021-09-03'
 duration: 60 Minutes
-url: 'http://google.ca'
+url: 'https://www.securitycompass.com/courseware/sdelements/basic/'
 tags:
   - fundamentals
 ---
