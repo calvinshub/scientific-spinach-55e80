@@ -125,7 +125,6 @@ h3 {
 
 h1 {
   font-size: var(--size-800);
-  color: #
 }
 
 h2 {
