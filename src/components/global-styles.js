@@ -107,7 +107,7 @@ body {
   background-attachment: fixed;
   background-color: #eaeef4;
   {/* background-image: linear-gradient(225deg, #eaeef4 0%, #FFFFFF 74%); */}
-  background: url("/media/Hero-section.svg") 50% center cover no-repeat;
+  background: url("/media/Hero-section.svg") 50% center / cover no-repeat;
 }
 
 h1,
