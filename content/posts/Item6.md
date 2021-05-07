@@ -2,7 +2,7 @@
 title: How to Threat Model in SD Elements
 date: '2021-03-12'
 duration: 60 Minutes
-timeToRead: 60
+timeToRead: 120
 tags:
   - Use Case
 ---
