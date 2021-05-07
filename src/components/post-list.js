@@ -5,7 +5,7 @@ import Tags from './tags';
 
 const PostList = ({ posts }) => {
   const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
-    const { title, tags, date, description } = frontmatter;
+    const { title, tags, duration, description } = frontmatter;
     const { slug } = fields;
 
     return (
@@ -13,7 +13,7 @@ const PostList = ({ posts }) => {
         key={slug}
         tags={tags}
         title={title}
-        date={date}
+        duration={duration}
         slug={slug}
         timeToRead={timeToRead}
         description={description}
