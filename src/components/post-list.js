@@ -34,7 +34,8 @@ const PostListItem = ({
   excerpt,
   description,
   slug,
-  duration
+  duration,
+  url
 }) => {
   return (
     <StyledPostListItem>
