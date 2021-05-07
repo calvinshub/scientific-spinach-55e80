@@ -18,7 +18,7 @@ const HomePage = ({ data }) => {
         }}
       />
 
-      <PostList posts={posts} />
+     /* <PostList posts={posts} />
       <StyledLink
         css={`
           display: block;
