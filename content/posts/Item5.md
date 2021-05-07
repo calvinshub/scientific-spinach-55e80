@@ -3,7 +3,6 @@ title: Content Development and Customization
 date: '2021-05-04'
 duration: 60 Minutes
 tags:
-  - stranger things
   - tv series
 ---
 
