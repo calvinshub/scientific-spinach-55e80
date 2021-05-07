@@ -141,7 +141,7 @@ const Launch = styled.span`
   & a {
     position: relative;
     z-index: 2;
-    background-color: rgba(0, 0, 0, 0.03);
+    background-color: rgba(255, 0, 0, 0.03);
     text-decoration: none;
     color: inherit;
     padding: 0.2rem 0.6rem;
