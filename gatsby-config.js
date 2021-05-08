@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `SD Elements Training Courses`,
+    title: `SDE`,
     author: {
       name: `Yinka Adedire`,
       summary: `Self-taught front-end web dev. JAMStack.`,
