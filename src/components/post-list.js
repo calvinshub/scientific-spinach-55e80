@@ -106,7 +106,7 @@ const PostListTitle = styled.h2`
 
   & a {
     text-decoration: none;
-    color: red;
+    color: 'red';
   }
 
   & a::after {
