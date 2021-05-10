@@ -1,6 +1,6 @@
 ---
 title: How to Threat Model in SD Elements
-duration: 20 Minutes
+duration: 25 Minutes
 tags:
   - Use Case
 url: 'https://www.securitycompass.com/courseware/threatmodeling/'
