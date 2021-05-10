@@ -36,7 +36,7 @@ const Header = () => {
           <HeaderNavListItem>
             <Link to="/contact"></Link>
           </HeaderNavListItem>
-        </HeaderNavList> =/}
+        </HeaderNavList> 
       </HeaderWrapper>
     </StyledHeader>
   );
