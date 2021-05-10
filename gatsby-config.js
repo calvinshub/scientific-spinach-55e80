@@ -5,7 +5,7 @@ module.exports = {
       name: ``,
       summary: ``,
     },
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    description: `Take our free, mobile-friendly training courses to maximize your use of SD Elements.`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `yinkakun`,
