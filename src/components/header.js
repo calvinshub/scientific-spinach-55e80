@@ -35,8 +35,8 @@ const Header = () => {
 
           <HeaderNavListItem>
             <Link to="/contact"></Link>
-          </HeaderNavListItem>
-        </HeaderNavList> */}
+          </HeaderNavListItem> */}
+        </HeaderNavList> 
       </HeaderWrapper>
     </StyledHeader>
   );
