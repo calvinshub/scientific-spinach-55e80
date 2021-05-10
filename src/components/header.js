@@ -26,7 +26,7 @@ const Header = () => {
 
         <HeaderNavList>
           <HeaderNavListItem>
-            <Link to="https://docs.sdelements.com/release/latest/guide/">User Guide</Link>
+            <Link to="https://docs.sdelements.com/release/latest/guide/" target="blank">User Guide</Link>
           </HeaderNavListItem>
 
           <HeaderNavListItem>
