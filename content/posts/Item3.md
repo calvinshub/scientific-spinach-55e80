@@ -1,6 +1,6 @@
 ---
 title: SD Elements for Software Admins
-duration: 45 Minutes
+duration: 44 Minutes
 tags:
   - Advanced
 url: 'https://www.securitycompass.com/courseware/sdelements/softwareadmin/'
