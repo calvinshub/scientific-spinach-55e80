@@ -1,6 +1,5 @@
 ---
 title: Content Development and Customization
-date: '2021-05-04'
 duration: 45 Minutes
 tags:
   - Advanced
