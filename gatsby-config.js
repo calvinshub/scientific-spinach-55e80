@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `SD Elements Training Courses`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: ``,
+      summary: ``,
     },
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Take our free, mobile-friendly training courses to maximize your use of SD Elements.`,
+    siteUrl: `https://sdelements.com`,
     social: {
-      twitter: `yinkakun`,
+      twitter: ``,
     },
     socialLinks: [
       {
