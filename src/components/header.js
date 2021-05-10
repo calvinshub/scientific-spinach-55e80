@@ -29,7 +29,7 @@ const Header = () => {
             <Link to="https://docs.sdelements.com/release/latest/guide/" target="blank">User Guide</Link>
           </HeaderNavListItem>
 
-          <HeaderNavListItem>
+          {/= <HeaderNavListItem>
             <Link to="/about"></Link>
           </HeaderNavListItem>
 
