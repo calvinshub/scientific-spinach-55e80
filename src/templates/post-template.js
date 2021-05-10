@@ -185,7 +185,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         duration
         description
-        timeToRead
         social_image {
           absolutePath
         }
