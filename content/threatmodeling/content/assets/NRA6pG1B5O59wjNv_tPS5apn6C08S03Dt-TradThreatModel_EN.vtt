@@ -1,0 +1,115 @@
+WEBVTT
+Kind: captions
+Source: Articulate Closed Captions Editor
+Source Version: 6.46.23620.0
+
+00:00:00.160 --> 00:00:02.528
+To begin a threat modeling exercise,
+
+00:00:02.560 --> 00:00:04.704
+gather the stakeholders in the same room.
+
+00:00:05.216 --> 00:00:07.628
+You would need a security expert and the product owner.
+
+00:00:07.984 --> 00:00:11.072
+And depending on how comprehensive you want the exercise to be, 
+
+00:00:11.520 --> 00:00:14.816
+you might need the software architect, business analyst,
+
+00:00:14.848 --> 00:00:16.352
+and the delivery manager too.
+
+00:00:16.960 --> 00:00:19.360
+Throw in Bob from the risk management team as well.
+
+00:00:19.936 --> 00:00:23.328
+These people will bring different perspectives and ideas to the table,
+
+00:00:23.524 --> 00:00:26.751
+and also build a shared understanding of what's important.
+
+00:00:27.064 --> 00:00:29.240
+Next up, bring in the diagrams.
+
+00:00:29.250 --> 00:00:32.140
+Lots of it. Well, it depends again on how
+
+00:00:32.150 --> 00:00:34.160
+comprehensive you want things to be.
+
+00:00:34.280 --> 00:00:39.000
+You'll need the technical diagrams of the different components of your application.
+
+00:00:39.060 --> 00:00:41.160
+Don't forget the data flow diagrams.
+
+00:00:41.170 --> 00:00:45.060
+This will help assess where attackers can inject threats.
+
+00:00:45.100 --> 00:00:48.040
+Mull over those diagrams for a bit.
+
+00:00:48.120 --> 00:00:53.030
+Once everyone is familiar with the diagrams, it's time to brainstorm for threats.
+
+00:00:53.100 --> 00:00:55.030
+Take your favorite methodology
+
+00:00:55.040 --> 00:00:58.190
+then follow the data flow lines to come up with threats.
+
+00:00:58.200 --> 00:01:01.050
+Identify all the threats that you can see,
+
+00:01:01.060 --> 00:01:03.070
+both broad and technical.
+
+00:01:03.120 --> 00:01:07.010
+Write them on stickies and post it on a board where your diagrams are. 
+
+00:01:07.020 --> 00:01:10.220
+This is the fun part but will also take awhile.
+
+00:01:10.230 --> 00:01:13.240
+Once all the threats are in, you need to define the
+
+00:01:13.250 --> 00:01:16.060
+impact and probability for each.
+
+00:01:16.090 --> 00:01:20.220
+What's the impact of that threat to your customers? To the business?
+
+00:01:20.260 --> 00:01:23.290
+What are the riskiest threats that you should prioritize?
+
+00:01:24.040 --> 00:01:27.080
+Rank risks based on your risk approach.
+
+00:01:27.150 --> 00:01:29.120
+For each prioritized threat, 
+
+00:01:29.030 --> 00:01:32.140
+define security controls to mitigate the risk.
+
+00:01:32.220 --> 00:01:37.010
+These controls are actionable items that your team can perform and validate.
+
+00:01:37.130 --> 00:01:42.100
+The output of a threat modeling exercise is the list of threats and their controls.
+
+00:01:42.150 --> 00:01:44.140
+Don't throw those stickies yet. 
+
+00:01:44.160 --> 00:01:48.010
+Log them in a place where your developers can refer back to
+
+00:01:48.020 --> 00:01:50.190
+and for the stakeholders to check the status of.
+
+00:01:50.200 --> 00:01:54.080
+Excel? JIRA? Whatever works for your team.
+
+00:01:54.150 --> 00:01:59.000
+This exercise should give you a great start in building a secure product. 
