@@ -1,6 +1,6 @@
 ---
 title: Introduction to SD Elements
-duration: 61 Minutes
+duration: 60 Minutes
 tags:
   - fundamentals
 url: 'https://www.securitycompass.com/courseware/sdelements/basic/'
