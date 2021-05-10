@@ -1,6 +1,6 @@
 ---
 title: Integrating with SD Elements
-duration: 25 Minutes
+duration: 30 Minutes
 tags:
   - Advanced
 url: 'https://www.securitycompass.com/courseware/sdelements/integration/'
