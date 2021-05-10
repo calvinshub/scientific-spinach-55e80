@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `SD Elements Training Courses`,
     author: {
-      name: `Yinka Adedire`,
+      name: ``,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
