@@ -1,6 +1,6 @@
 ---
 title: Content Development and Customization
-duration: 46 Minutes
+duration: 45 Minutes
 tags:
   - Advanced
 url: 'https://www.securitycompass.com/courseware/sdelements/contentdev/'
