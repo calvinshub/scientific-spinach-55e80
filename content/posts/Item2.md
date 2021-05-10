@@ -1,6 +1,6 @@
 ---
 title: SD Elements Advanced
-duration: 60 Minutes
+duration: 61 Minutes
 tags:
   - Advanced
 url: 'https://www.securitycompass.com/courseware/sdelements/advanced/'
