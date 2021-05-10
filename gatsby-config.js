@@ -3,7 +3,7 @@ module.exports = {
     title: `SD Elements Training Courses`,
     author: {
       name: ``,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      summary: ``,
     },
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
     siteUrl: `https://gatsbyglass.netlify.app`,
