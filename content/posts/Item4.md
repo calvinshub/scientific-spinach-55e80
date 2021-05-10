@@ -1,5 +1,5 @@
 ---
-title: SD Elements for Integration Admins
+title: Integrating with SD Elements
 date: '2021-06-12'
 duration: 30 Minutes
 tags:
