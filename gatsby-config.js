@@ -6,7 +6,7 @@ module.exports = {
       summary: ``,
     },
     description: `Take our free, mobile-friendly training courses to maximize your use of SD Elements.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    siteUrl: `https://sdelements.com`,
     social: {
       twitter: `yinkakun`,
     },
